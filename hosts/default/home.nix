@@ -82,7 +82,6 @@ plugin:overview:reverseSwipe =true;
 #   };
 
 home.sessionVariables.GTK_THEME = "gruvbox-dark";
-home.sessionVariables.GTK_THEME = "gruvbox-dark";
 
 home.packages = with pkgs;[
 # airshipper
